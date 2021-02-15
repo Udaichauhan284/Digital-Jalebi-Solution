@@ -1,0 +1,16 @@
+.listItems{
+    padding-top: 15px;
+    background-color: azure;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 10px;
+}
+.list{
+    padding: 15px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px lightgray;
+    margin-top: 10px;
+    
+    width: 100vw;
+}
